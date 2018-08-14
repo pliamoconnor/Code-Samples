@@ -1,0 +1,1 @@
+These code samples are from a game I worked on called Irkalla. This is the AI system that I designed. It has been iterated on by other people but the majority of work is my own.
