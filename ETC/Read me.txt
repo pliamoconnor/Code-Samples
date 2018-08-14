@@ -1,0 +1,2 @@
+This is a game manager that I made to help move the players between the scenes and keep everything synced up between the different players so that things would load at the correct time
+and that each player would have the data they needed when the game started.

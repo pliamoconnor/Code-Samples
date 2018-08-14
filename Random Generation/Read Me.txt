@@ -1,0 +1,1 @@
+This is the map generator for the game Irkalla. This is a script only I touched in the production of the game.
